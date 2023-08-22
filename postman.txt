@@ -11,3 +11,10 @@
             "last_name": "Lawson",
             "avatar": "https://reqres.in/img/faces/7-image.jpg"
         },
+{
+  "num_of_books": {
+    "one": "1 книга",
+    "few": "%{count} книги",
+    "many": "%{count} книг"
+  }
+}
