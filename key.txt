@@ -12,3 +12,11 @@
                 "answer": "Huston Rocket"
             }
         },
+
+{
+  "num_of_books": {
+    "one": "1 книга",
+    "few": "%{count} книги",
+    "many": "%{count} книг"
+  }
+}
