@@ -1,7 +1,7 @@
 var responseJSON = pm.response.json();
 
-pm.test("Response status code is 422", function () {
-    pm.response.to.have.status(422);
+pm.test("Response status code is 406", function () {
+    pm.response.to.have.status(406);
 })
 
 pm.test("Failure Messgae - Phone Number Is Null", function(){
