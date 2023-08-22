@@ -1,3 +1,2 @@
 # gittutorial
-this is first Repository 
-testing repository
+this is first Repository
