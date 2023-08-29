@@ -6,7 +6,7 @@
     "data": [
         {
             "id": 8,
-            "email": "michael.lawson@reqres.in",
+            "email": "test@reqres.in",
             "first_name": "Michael",
             "last_name": "Lawson",
             "avatar": "https://reqres.in/img/faces/7-image.jpg"
